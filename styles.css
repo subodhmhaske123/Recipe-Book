@@ -1,12 +1,12 @@
 body {
-    font-family: 'Cambri', sans-serif;
+    font-family: 'Cambri',;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 header {
-    background-color: #3498db;
+    background-color: lightyellow;
     color: #fff;
     text-align: center;
     padding: 20px;
